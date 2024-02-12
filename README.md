@@ -1,0 +1,1 @@
+Simple Microblog project to better understand Flask
